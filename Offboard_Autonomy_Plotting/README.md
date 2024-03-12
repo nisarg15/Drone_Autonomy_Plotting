@@ -1,17 +1,26 @@
-# Project 2 
+# Output
+## Path_video
+https://github.com/nisarg15/Drone_Autonomy_Plotting/assets/89348092/adcc66ed-baff-47a8-adc3-bbb6ef65b0fb
 
-## Introduction 
-  	This file includes python program solution for homework1 for
-	UMD ENAE 788M Spring 2022 batch. The folders consists of python
-	program along with some generated outputs a video. 
+## Time_steps
+![Time](https://github.com/nisarg15/Drone_Autonomy_Plotting/assets/89348092/7a63612e-c744-440c-8f89-616a00e3494c)
+
+## Path
+![path](https://github.com/nisarg15/Drone_Autonomy_Plotting/assets/89348092/7a16d47c-b0f6-492f-81d2-53b1fc54ca48)
+![path_real](https://github.com/nisarg15/Drone_Autonomy_Plotting/assets/89348092/67037e3e-0f99-44a3-ab10-41f4d7f0fcd5)
+
+
+
+
+
+
+
 	
-	These files are executable:
-	
-	path.py
+    path.py
     path_real.py
     time.py
 
-	All other files are pictures and data
+    All other files are pictures and data
   
 ## Requirements
        ***Important****************************************************************
